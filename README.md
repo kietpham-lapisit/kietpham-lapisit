@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm Kiet Pham, a passionate software engineer spec
 
 My key skills include:
 
-- .NET
+- .NET MVC, .NET Core
 - Blazor
 - Angular
 - React
@@ -26,8 +26,6 @@ My key skills include:
 - TypeScript
 - Docker
 - RabbitMQ
-- OpenShift
 - GitHub
-- Git SCM
 
 Feel free to explore my repositories, and connect with me on social media. Let's collaborate and make great software together! 🚀
